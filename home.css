@@ -1,0 +1,13 @@
+#x{
+	opacity: 0.8;
+	background-image: url("1.jpg"); 
+	sh
+}
+#msg{
+	font-family: 'Cabin Sketch', cursive;
+	text-align: center;
+	color: #a2abaf;
+	padding-top: 10%;
+	font-size: 40px;
+	text-shadow: transparent;
+}
