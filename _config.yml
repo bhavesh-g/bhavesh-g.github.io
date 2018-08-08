@@ -22,8 +22,7 @@ roles:
  - title: .
    start: .
    end: .
-   employer:.
-   description:.
+   
 #Education is required
 education:
  - level: Bachelor of Technology (B.Tech.)
