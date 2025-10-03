@@ -1,0 +1,19 @@
+title: "Your Name"
+email: "you@example.com"
+description: "Short description about you or the blog."
+url: "https://bhavesh-g.github.io"
+baseurl: ""
+language: en
+
+author:
+  name: "Your Name"
+  bio: "bio"
+  location: "City, Country"
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+
+excerpt_separator: "<!--more-->"
+markdown: kramdown
