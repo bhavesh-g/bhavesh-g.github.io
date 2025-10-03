@@ -1,19 +1,22 @@
-title: "Your Name"
-email: "you@example.com"
-description: "Short description about you or the blog."
-url: "https://bhavesh-g.github.io"
-baseurl: ""
-language: en
+title: Your Name
+tagline: Blog and Projects
+description: >-
+  Personal blog about me, my projects, and what I’m learning.
+url: "https://your-username.github.io" # update with your Pages URL
+baseurl: "" # leave empty if using <username>.github.io
 
 author:
-  name: "Your Name"
-  bio: "bio"
-  location: "City, Country"
+  name: Your Name
+  url: https://github.com/your-username
+  avatar: /assets/img/avatar.png
+  bio: Software developer. Maker. Curious about X.
 
-permalink: /:year/:month/:day/:title/
+theme: jekyll-theme-chirpy
 
-plugins:
-  - jekyll-feed
+lang: en
+timezone: UTC
 
-excerpt_separator: "<!--more-->"
-markdown: kramdown
+# Social links
+github: your-username
+twitter: your-handle
+linkedin: your-handle
