@@ -1,0 +1,13 @@
+entries:
+  - title: home
+    url: /
+
+  - title: posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: "view all posts"
+      show_more_url: /all-posts.html
+
+  - title: about
+    url: /about

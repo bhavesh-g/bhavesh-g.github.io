@@ -1,22 +1,32 @@
-title: Your Name
-tagline: Blog and Projects
-description: >-
-  Personal blog about me, my projects, and what I’m learning.
-url: "https://your-username.github.io" # update with your Pages URL
-baseurl: "" # leave empty if using <username>.github.io
+title: bhavesh-g
+author: Bhavesh G
+email: your-email@example.com
+description: developer blog
+url: "https://bhavesh-g.github.io"
+baseurl: ""
 
-author:
-  name: Your Name
-  url: https://github.com/your-username
-  avatar: /assets/img/avatar.png
-  bio: Software developer. Maker. Curious about X.
+# Theme configuration
+remote_theme: riggraz/no-style-please
 
-theme: jekyll-theme-chirpy
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how dates are formatted
+  show_description: true # show blog description in home page
 
-lang: en
-timezone: UTC
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
 
-# Social links
-github: your-username
-twitter: your-handle
-linkedin: your-handle
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - setup-jekyll.sh

@@ -1,9 +1,43 @@
-# Jekyll Blog — Chirpy Theme
+# bhavesh-g.github.io
 
-This blog uses the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) Jekyll theme.
+personal blog built with jekyll and no-style-please theme
 
-## How to use
-1. Edit `_config.yml` to set your details.
-2. Add posts in `_posts/` as `YYYY-MM-DD-title.md`.
-3. Add tab pages under `_tabs/` (e.g., About, Projects).
-4. Run locally with `bundle exec jekyll serve`.
+## local development
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+visit http://localhost:4000
+
+## deployment
+
+auto-deploys to github pages on push to main
+
+## add new post
+
+create file in `_posts/` with format: `YYYY-MM-DD-title.md`
+
+frontmatter:
+```yaml
+---
+layout: post
+title: "your title"
+date: YYYY-MM-DD
+categories: category-name
+---
+```
+
+## structure
+
+```
+.
+├── _config.yml          # site config
+├── _data/
+│   └── menu.yml        # navigation menu
+├── _posts/             # blog posts go here
+├── about.md            # about page
+├── all-posts.md        # archive page
+└── index.md            # homepage
+```

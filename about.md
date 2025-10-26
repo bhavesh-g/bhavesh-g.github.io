@@ -1,9 +1,22 @@
 ---
-layout: default
-title: About
-permalink: /about/
+layout: page
+title: about
 ---
 
-# About me
+developer. tinkerer. builder.
 
-Write a short bio here.
+## what i do
+
+- write code
+- break things
+- fix things
+- repeat
+
+## tech
+
+python, fastapi, docker, kubernetes, gcp, react, go
+
+## contact
+
+- github: [bhavesh-g](https://github.com/bhavesh-g)
+- linkedin: your-linkedin-profile
