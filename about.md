@@ -106,3 +106,4 @@ if you made it this far you're either recruiting or procrastinating or I myself 
 
 any way dm me
 
+{% include visitor-tracker.html %}
