@@ -14,7 +14,7 @@ then solve those too
 
 ## what i actually do
 
-### when at work
+### at work
 
 distributed systems
 
