@@ -16,9 +16,11 @@ then solve those too
 
 ### when at work
 
-turn coffee into distributed systems
+distributed systems
 
-debug production at 1am while everyone sleeps
+debug production
+
+document
 
 make apis that don't randomly return 500s (revolutionary concept)
 
@@ -31,7 +33,7 @@ occasionally touch grass between deployments
 stare Jira :(
 
 
-#### stuff i break things with
+### stuff i break things with
 
 python when i want it done
 
@@ -68,11 +70,11 @@ microservices because monoliths were too simple
 
 write code that makes senior devs say "wait that actually works?"
 
-ship features between gym sets
+ship
 
 fix bugs that only happen in prod
 
-pretend i understand distributed consensus
+pretend i understand
 
 read documentation (ctrl+f is reading)
 
