@@ -112,3 +112,4 @@ we're not there yet. but the gap between "we can't tell what's real" and "we can
 the real challenge isn't the technology. we can already build it. the challenge is building a culture that actually wants to use it.
 
 in the end, truth in the digital world won't come from better fake detectors. it will come from cryptographic proof that shows what's real, built into every camera we use.
+{% include visitor-tracker.html %}
