@@ -3,18 +3,22 @@ layout: page
 title: about
 ---
 
-i solve problems that shouldn't exist in the first place
+i live in India. i have a job.
 
-then create new ones
+i solve problems that happen at my work && get assigned to me
+
+sometimes create new ones
 
 then solve those too
 
 
 ## what i actually do
 
+### when at work
+
 turn coffee into distributed systems
 
-debug production at 3am while everyone sleeps
+debug production at 1am while everyone sleeps
 
 make apis that don't randomly return 500s (revolutionary concept)
 
@@ -24,8 +28,10 @@ convinced to use kubernetes when total_user > 5
 
 occasionally touch grass between deployments
 
+stare Jira :(
 
-## stuff i break things with
+
+#### stuff i break things with
 
 python when i want it done
 
@@ -58,7 +64,7 @@ grafana to make those breakdowns look pretty
 microservices because monoliths were too simple
 
 
-## occasionally
+### occasionally
 
 write code that makes senior devs say "wait that actually works?"
 
@@ -70,6 +76,16 @@ pretend i understand distributed consensus
 
 read documentation (ctrl+f is reading)
 
+### when not at work
+
+chess
+run
+weight training
+music
+movies (comedy, politics, war ...)
+drive (only automatics)
+equity markets
+browse
 
 ## contact
 
