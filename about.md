@@ -81,12 +81,19 @@ read documentation (ctrl+f is reading)
 ### when not at work
 
 chess
+
 run
+
 weight training
+
 music
+
 movies (comedy, politics, war ...)
+
 drive (only automatics)
+
 equity markets
+
 browse
 
 ## contact
