@@ -5,7 +5,7 @@ date: 2025-10-26
 categories: meta
 ---
 
-# the next frontier of digital truth
+> the next frontier of digital truth
 
 you're looking at your screen. another picture just went viral. you almost share it.
 
