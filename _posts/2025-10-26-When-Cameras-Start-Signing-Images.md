@@ -1,4 +1,4 @@
-# When Cameras Start Signing Images: The Next Frontier of Digital Truth
+# The Next Frontier of Digital Truth
 
 You're looking at your screen. Another picture just went viral. You almost share it.
 
