@@ -102,7 +102,7 @@ browse
 - linkedin: [mebhaveshg](https://www.linkedin.com/in/mebhaveshg) (where i pretend to be professional)
 
 
-if you made it this far you're either recruiting or procrastinating or ...
+if you made it this far you're either recruiting or procrastinating or I myself asked you to visit
 
 any way dm me
 

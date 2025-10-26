@@ -13,10 +13,9 @@ writing helps thinking
 
 also need a place to dump code snippets and learnings
 
-I do have Medium and Linkedin articles before setting this up
-
 expect posts about:
 - python shenanigans
+- backend systems
 - fastapi patterns
 - docker/k8s stuff
 - cloud deployments
