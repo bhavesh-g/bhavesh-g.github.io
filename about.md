@@ -3,20 +3,81 @@ layout: page
 title: about
 ---
 
-developer. tinkerer. builder.
+i solve problems that shouldn't exist in the first place
 
-## what i do
+then create new ones
 
-- write code
-- break things
-- fix things
-- repeat
+then solve those too
 
-## tech
 
-python, fastapi, docker, kubernetes, gcp, react, go
+## what i actually do
+
+turn coffee into distributed systems
+
+debug production at 3am while everyone sleeps
+
+make apis that don't randomly return 500s (revolutionary concept)
+
+optimize things that were already fast enough
+
+convinced to use kubernetes when total_user > 5
+
+occasionally touch grass between deployments
+
+
+## stuff i break things with
+
+python when i want it done
+
+javascript when i hate myself
+
+fastapi for apis that actually scale
+
+docker because "works on my machine" isn't a deployment strategy
+
+kubernetes when docker containers get lonely
+
+gcp when aws bills scare me
+
+react when the backend isn't enough suffering
+
+go when python feels too slow (rarely)
+
+mongodb for schema-less chaos
+
+sql when i need actual data integrity
+
+kafka for event streams i'll regret later
+
+redis for caching problems i created
+
+prometheus to watch things break in real-time
+
+grafana to make those breakdowns look pretty
+
+microservices because monoliths were too simple
+
+
+## occasionally
+
+write code that makes senior devs say "wait that actually works?"
+
+ship features between gym sets
+
+fix bugs that only happen in prod
+
+pretend i understand distributed consensus
+
+read documentation (ctrl+f is reading)
+
 
 ## contact
 
 - github: [bhavesh-g](https://github.com/bhavesh-g)
-- linkedin: your-linkedin-profile
+- linkedin: [mebhaveshg](https://www.linkedin.com/in/mebhaveshg) (where i pretend to be professional)
+
+
+if you made it this far you're either recruiting or procrastinating or ...
+
+any way dm me
+

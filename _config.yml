@@ -1,7 +1,7 @@
-title: bhavesh-g
-author: Bhavesh G
-email: your-email@example.com
-description: developer blog
+title: bhavesh-gpt
+author: Bhavesh
+email: guptabhavesh6@gmail.com
+description: developer blog & rants
 url: "https://bhavesh-g.github.io"
 baseurl: ""
 
@@ -9,7 +9,7 @@ baseurl: ""
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how dates are formatted
   show_description: true # show blog description in home page
