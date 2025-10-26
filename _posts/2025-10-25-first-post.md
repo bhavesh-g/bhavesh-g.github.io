@@ -30,3 +30,4 @@ some weird debugging stories
 other random ideas
 
 no schedule ...
+{% include visitor-tracker.html %}
