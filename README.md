@@ -1,6 +1,6 @@
 # bhavesh-g.github.io
 
-personal blog built with jekyll and no-style-please theme
+personal blog built with jekyll and [no-style-please theme](https://github.com/riggraz/no-style-please)
 
 ## local development
 
