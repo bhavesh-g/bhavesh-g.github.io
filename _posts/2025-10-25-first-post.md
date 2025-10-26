@@ -11,9 +11,9 @@ why? good question.
 
 writing helps thinking.
 
-mostly because writing helps clear the cache in my brain. also, i needed a place to dump code snippets and random learnings that aren't polished enough for anywhere else.
+also, i needed a place to dump code snippets and random learnings that aren't polished enough for anywhere else.
 
-it's just a raw log of what I'm working on. Expect stuff like:
+it's just a raw log of what i'm thinking. expect stuff like:
 
 python shenanigans
 
