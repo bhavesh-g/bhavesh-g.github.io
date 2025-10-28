@@ -1,3 +1,9 @@
+---
+layout: post
+title: "the great ai lie"
+date: 2025-10-29
+categories: meta
+---
 > when more users costs more money
 
 you see the headlines. another ai company hits a billion-dollar valuation. you almost believe the hype.
