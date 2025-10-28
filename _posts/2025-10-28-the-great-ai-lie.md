@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "the great ai lie"
-date: 2025-10-29
+date: 2025-10-28
 categories: meta
 ---
 > when more users costs more money
