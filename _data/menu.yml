@@ -9,4 +9,6 @@ entries:
       show_more_url: /all-posts.html
   - title: resume
     url: https://www.linkedin.com/in/mebhaveshg/
+  - title: projects
+    url: /projects
 
