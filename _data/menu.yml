@@ -7,8 +7,8 @@ entries:
       show_more: true
       show_more_text: "view all posts"
       show_more_url: /all-posts.html
-  - title: resume
-    url: https://www.linkedin.com/in/mebhaveshg/
   - title: projects
     url: /projects
+  - title: resume
+    url: https://www.linkedin.com/in/mebhaveshg/
 
