@@ -1,3 +1,9 @@
+---
+layout: post
+title: "why your documentation falls apart"
+date: 2025-11-15
+categories: meta
+---
 > and how to fix it
 
 we build systems that keep thousands of moving parts in sync, yet the moment we try to explain any of it, the whole thing folds. the docs feel like a broken chain of whispers. readers drift through them like disoriented hikers, grabbing at any scrap of clarity, and when that fails, support channels overflow with questions that never needed to exist.
