@@ -169,5 +169,3 @@ if you're honest about those things, the decision usually becomes pretty clear.
 and if you do decide to build it, remember that you're not building an identity platform. you're building a token policy service. keep it small. keep it focused. keep it yours.
 
 the platforms aren't going anywhere. if you decide this isn't worth it, you can always switch later. but at least you'll have made the decision with your eyes open, understanding the actual shape of your problem instead of fitting your problem into someone else's shape.
----
-
