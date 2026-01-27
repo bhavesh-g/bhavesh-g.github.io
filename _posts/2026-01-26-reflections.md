@@ -5,9 +5,9 @@ date: 2026-01-26
 categories: rant
 ---
 
-> verses
+> a song about seeing someone and realizing you are being seen too
 
-**intro / verse 1**
+**intro**
 
 judging you juding me  
 every stare, a memory  
@@ -21,14 +21,14 @@ say nothing, still you’re hearing me,
 you look once, then carefully,  
 tension writes the chemistry.
 
-**hook**
+**verse 3**
 
 judging you, judging me,  
 same reflection, different frequency,  
 glass between us, clarity,  
 what you see is what you be.
 
-**verse 3**
+**verse 4**
 
 no confession, no decree,  
 just this mutual scrutiny,  
