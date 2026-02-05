@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-{% include visitor-tracker.html %}
+{% include coffee.html %}
