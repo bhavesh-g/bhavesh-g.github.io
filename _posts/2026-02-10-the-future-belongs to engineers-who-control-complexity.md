@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the future belongs to engineers who control complexity"
+title: "future belongs to engineers who control complexity"
 date: 2026-02-10
 categories: meta
 ---
