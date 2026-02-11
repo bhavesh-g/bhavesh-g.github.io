@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "the future belongs to engineers who control complexity"
-date: 2025-10-25
+date: 2026-02-10
 categories: meta
 ---
 
