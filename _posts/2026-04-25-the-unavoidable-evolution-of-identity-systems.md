@@ -4,7 +4,7 @@ title: "the unavoidable evolution of identity systems"
 date: 2026-04-25
 categories: meta
 ---
-> state, scale, and cached lies
+> state, scale, and cached lies.
  
 we argue about tokens when we should be arguing about topology. here is how your architecture actually forces your hand.
 
