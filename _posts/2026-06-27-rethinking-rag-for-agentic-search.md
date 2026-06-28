@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "rethinking rag for agentic search"
-date: 2025-06-27
+date: 2026-06-27
 categories: meta
 ---
 
